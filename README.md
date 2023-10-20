@@ -6,4 +6,4 @@
 
 ### Markdown
 - At first I was unable to perform the Shapiro test, I had to look up "from scipy.stats import shapiro" to import and perform the function
-- 
+- I was having difficulty with properly attributing values due to typos
